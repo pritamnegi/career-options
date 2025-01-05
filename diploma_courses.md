@@ -1,3 +1,5 @@
+# Diploma Courses
+
 1. Diploma in Architectural Assistantship
 2. Diploma in Automobile Engineering
 3. Diploma in Chemical Engineering
