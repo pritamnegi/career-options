@@ -1,4 +1,4 @@
-# ITI Courses
+# Industrial Training Institutes (ITI) Courses
 
 1. Fitter
 2. Electrician
