@@ -1,3 +1,5 @@
+# Arts
+
 B.A. - Bachelor of Arts
 
 1. B.A. (Psychology)
