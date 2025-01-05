@@ -2,7 +2,7 @@
 
 This repository enlists all possible career opportunities for any student pursuing higer education in India.
 
-Avaiable Branches
+Available Branches:
 1. [Commerce](/commerce.md)
 2. [Science](/science.md)
 3. [Arts](/arts.md)
