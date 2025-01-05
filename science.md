@@ -1,3 +1,5 @@
+# Science
+
 1. Bachelor in Science (B.Sc.)
     1. BSc - Computer Science
     2. BSc - Applied Science
